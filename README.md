@@ -1,8 +1,8 @@
 # Resync
-Rsync Extended.
+Rsync Reloaded
 Manage remotes programmatically in archival repositories.
 
-Define archive sources and repos via configutation.
+Define archive sources and repos via configuration.
 Navigate freely through an archive and
 stop worrying about typing the right rsync command.
 Simply update from all remote sources with:
